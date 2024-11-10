@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project works by putting two numbers (x and y), and a carry in. This module adds the two numbers & the carry_in, and returns carry_out and sum
 
 ## How to test
 
-Explain how to use your project
+Check is x and y is equal to sum. 
 
 ## External hardware
 
